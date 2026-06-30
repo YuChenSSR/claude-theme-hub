@@ -13,7 +13,8 @@ instructions, assets, and releases.
 | --- | --- | --- |
 | Otty terminal | [YuChenSSR/otty-claude-themes](https://github.com/YuChenSSR/otty-claude-themes) | Claude-inspired light and dark Otty terminal themes |
 | Craft Agent | [YuChenSSR/claude-warm-craft-agent-theme](https://github.com/YuChenSSR/claude-warm-craft-agent-theme) | Claude Warm theme for Craft Agent |
-| Codex App and Warp | [YuChenSSR/claude-warm-codex-app-theme](https://github.com/YuChenSSR/claude-warm-codex-app-theme) | Claude Warm Codex App themes plus matching Warp themes |
+| Codex App | [YuChenSSR/claude-warm-codex-app-theme](https://github.com/YuChenSSR/claude-warm-codex-app-theme) | Claude Warm Codex App themes |
+| Warp | [YuChenSSR/claude-warm-warp-theme](https://github.com/YuChenSSR/claude-warm-warp-theme) | Claude Warm Warp themes with soft Buddy-inspired backgrounds |
 
 ## Palette Family
 
