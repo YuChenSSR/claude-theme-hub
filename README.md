@@ -15,6 +15,7 @@ instructions, assets, and releases.
 | Craft Agent | [YuChenSSR/claude-warm-craft-agent-theme](https://github.com/YuChenSSR/claude-warm-craft-agent-theme) | Claude Warm theme for Craft Agent |
 | Codex App | [YuChenSSR/claude-warm-codex-app-theme](https://github.com/YuChenSSR/claude-warm-codex-app-theme) | Claude Warm Codex App themes |
 | Warp | [YuChenSSR/claude-warm-warp-theme](https://github.com/YuChenSSR/claude-warm-warp-theme) | Claude Warm Warp themes with soft Buddy-inspired backgrounds |
+| ChatWise App | [YuChenSSR/chatwise-claude-warm-theme](https://github.com/YuChenSSR/chatwise-claude-warm-theme) | Private personal patcher for applying Claude Warm colors and Warp backgrounds to ChatWise |
 
 ## Palette Family
 
@@ -36,6 +37,7 @@ Pick the app you want to theme, then follow that repository's README:
 - Craft Agent: Claude Warm agent UI theme.
 - Codex App: `codex-theme-v1` payloads and config installer.
 - Warp: `.yaml` themes and soft background images.
+- ChatWise App: private `app.asar` patcher for reapplying the theme after app updates.
 
 ## Add Another Claude Theme
 
